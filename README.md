@@ -1,5 +1,5 @@
-## Hi, I'm Syed!
-I am a 4th year Computer Science student at Ontario Tech University intrigued by the world of aritifical intelligence. Currently studying ways to leverage machine learning and improve or optimize various real-world processes/systems...
+## Hi, I'm Arham!
+Computer Science alumni at Ontario Tech University intrigued by the world of machine learning. Currently woring to apply data science methods to traffic collision detections/analytics systems.
 
 ### Languages and Platforms
 
