@@ -1,4 +1,4 @@
-## Hi, I'm Arham!
+## Hi, I'm Syed!
 Computer Science alumni at Ontario Tech University intrigued by the world of machine learning. Currently woring to apply data science methods to traffic collision detections/analytics systems.
 
 ### Languages and Platforms
